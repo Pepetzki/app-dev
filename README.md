@@ -10,7 +10,7 @@ My first repository
 
 1. Hello World
 2. Hello World
-3. Hell World
+3. Hello World
 
 - Hello world
 - Hello World
